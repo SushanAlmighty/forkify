@@ -1,0 +1,5 @@
+node_modules
+dist
+forkify-*
+.parcel-cache
+.DS_Store
